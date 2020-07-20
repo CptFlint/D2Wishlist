@@ -1,3 +1,6 @@
+title:This is a personilized wish list.
+description:This rolls may not be god roll for either PvP or PvE, just rolls that I am looking for.
+
 /// Death Adder Pve
 dimwishlist:item=2742490609&perks=3250034553,3142289711,1866048759,1683379515,2697220197,-69420
 /// FALLING GUILLOTINE
